@@ -1,0 +1,213 @@
+@charset "ISO-8859-1";
+
+.frm
+{
+	
+	background-image: url(../images/upi.jpg);
+	
+}
+
+.fr
+{
+	margin: auto;
+   width: 50%;
+   border: 3px solid green;
+   padding: 10px;
+   background-position: center;
+   
+   
+}
+
+
+
+
+.the
+{
+	display: inline-block;
+        width: 800px;
+        text-align: right;
+}
+
+.frt
+{
+	background-color: rgb(255, 0, 0); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 4px;
+  position:center;
+  
+}
+
+.frst
+{
+		background-image: url(../images/upi.jpg);
+}
+
+
+.user
+{
+		margin: auto;
+  width: 40%;
+  border: 3px solid green;
+  padding: 10px;
+   background-position: center;
+   
+}
+
+
+.rtx
+{
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: rgb(128, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 4px;
+  position:center;
+}
+
+
+
+
+.log
+{
+  position:center;	
+}
+
+.jvb
+{
+	display: inline-block;
+        width: 800px;
+        text-align: right;
+}
+
+
+.hed
+{
+	color:red;
+}
+
+
+
+.tbc
+{
+	  width: 70%;
+	   text-align: center;
+	   height:70%;
+}
+
+td
+{
+	 height: 50px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+table
+{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 1.2em;
+	min-width: 600px;
+	
+}
+
+
+
+.btn1
+{
+	background-color:blue;
+	display:flex;
+	padding:20px;
+	margin:6px;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	  min-height:30px; 
+    min-width: 120px;
+	 border-radius:10px; 
+	   border:none; 
+	   text-align:center;
+	 width: 10%;
+	   
+}
+
+.btn2
+{
+	background-color:red;
+	display:flex;
+	padding:20px;
+	margin:6px;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	   display: block;
+	     border:none; 
+	   border-radius:10px; 
+	    min-height:30px; 
+    min-width: 120px;
+    text-align:center;
+     width: 10%;
+}
+
+
+#fv
+{
+	display:inline;
+}
+
+
+.yuki
+{
+	    display: inline-block;
+        width: 800px;
+        text-align: right;
+        background-position: center;
+        
+        
+}
+
+.py1
+{
+	margin: auto;
+   width: 50%;
+   border: 3px solid #0080ff;
+   padding: 10px;
+   background-position: center;
+}
+
+
+.pybtn
+{
+	background-color:  #b30000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+     border-radius:6px;
+	
+}
+
+.payc
+{
+	font-size:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:white;
+}
+
+
+.tomy
+{
+	color:red;
+}
+
+.picj
+{
+background-color:red;
+}
+  
+  

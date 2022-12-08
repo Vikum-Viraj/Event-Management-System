@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>customer.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/ins</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>CustomerRegister</servlet-name>
+    <servlet-class>customer.CustomerRegister</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CustomerRegister</servlet-name>
+    <url-pattern>/reg</url-pattern>
+  </servlet-mapping>
+ 
+  <servlet>
+  <servlet-name>updatecustomer</servlet-name>
+  <servlet-class>customer.UpdateServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>updatecustomer</servlet-name>
+  <url-pattern>/updatecus</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+  <servlet-name>Removecustomer</servlet-name>
+  <servlet-class>customer.removecustomer</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Removecustomer</servlet-name>
+  <url-pattern>/deletecus</url-pattern>
+  </servlet-mapping>
+  
+ 
+  
+  
+
+</web-app>
